@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NaviApp</string>
+
+    <string name="error_json_parse">Unable to parse Json data</string>
+    <string name="error_map_not_ready">Map not ready</string>
+    <string name="error_data_not_avail">No data available</string>
+
+    <string name="panel_title">Mode of Transport</string>
+    <string name="btn_nav_text">Navigate</string>
+</resources>
